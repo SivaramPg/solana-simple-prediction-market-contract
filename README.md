@@ -389,7 +389,7 @@ This project is intended for educational and learning purposes only. The program
 
 ## Links
 
-- [EVM Version](https://github.com/yourusername/evm-simple-prediction-market-contract)
+- [EVM Version](https://github.com/SivaramPg/evm-simple-prediction-market-contract)
 - [Anchor Documentation](https://www.anchor-lang.com/)
 - [Solana Documentation](https://docs.solana.com/)
 
